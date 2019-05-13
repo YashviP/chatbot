@@ -42,7 +42,7 @@ $ python3 test.py
 # Creating Facebook messanger chatbot
 
 Now that we have a saved model, let's now create our Facebook chatbot.
-I have done it in my repository 
+I have done it in my repository. 
 link is -
 
 https://github.com/YashviP/chat_server
