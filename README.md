@@ -39,23 +39,6 @@ $ python3 seqmodel.py
 $ python3 test.py
 
 
-# Creating Facebook messanger chatbot
-
-Now that we have a saved model, let's now create our Facebook chatbot.
-I have done it in my repository. 
-link is -
-
-https://github.com/YashviP/chat_server
-
-
-
-here's a summary of the steps-
-
-      - Build the server, and host on Heroku.
-      - Create a Facebook App/Page, set up the webhook, get page token, and trigger the app.
-      -  Add an API endpoint to index.js so that the bot can respond with messages.
-      
-After following the steps correctly, you should be able to message the chatbot, and get responses back.
 
 
 
